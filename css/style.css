@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gidole&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  background-color: rgb(200, 166, 155);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  color: white;
+  font-size: 350%;
+}
+
+#text1 {
+  color: white;
+  text-indent: 45px;
+}
+
+#text2 {
+  line-height: 40px;
+  color: white;
+  text-indent: 45px;
+}
+
+#text3 {
+  color: white;
+  text-indent: 45px;
+}
+
+#text4 {
+  color: white;
+  text-indent: 45px;
+}
+
+main {
+  font-size: large;
+  background-color: rgb(122, 27, 122);
+  padding: 7px 55px 80px 55px;
+  font-family: "Montserrat", sans-serif; 
+  margin: -8px;
+  border-left: 20px;
+}
+
+header {
+  padding: 0px 0px 25px 0px;
+}
+
+span {
+  color: rgb(255, 208, 189);
+}
+
+footer {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  padding: 50px 0px;
+}
